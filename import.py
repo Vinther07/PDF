@@ -1,0 +1,1 @@
+from pdf_merger import merge_pdfs
